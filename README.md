@@ -3,6 +3,7 @@
 
 ## ER-DIAGRAM 
 
+![SqlERDIAGRAM](https://github.com/user-attachments/assets/571d91cc-5a59-4010-b6c4-e8e38c5412c1)
 
 ### Objective:
 
