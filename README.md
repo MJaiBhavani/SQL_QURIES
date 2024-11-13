@@ -1,5 +1,9 @@
 # SQL_QURIES
 
+
+## ER-DIAGRAM 
+
+
 ### Objective:
 
 Conducted an in-depth analysis of web traffic data to uncover patterns, trends, and insights related to website usage, visitor behavior, and performance metrics.
